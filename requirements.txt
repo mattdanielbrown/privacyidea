@@ -43,7 +43,7 @@ pyasn1==0.4.3
 pycparser==2.18
 pycrypto==2.6.1
 Pygments==2.2.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 PyMySQL==0.8.1
 pymysql-sa==1.0
 pyOpenSSL==18.0.0
