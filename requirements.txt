@@ -26,7 +26,7 @@ ipaddress==1.0.22
 itsdangerous==0.24
 Jinja2==2.10
 ldap3==2.5
-lxml==4.2.1
+lxml==4.9.1
 Mako==1.0.7
 MarkupSafe==1.0
 matplotlib==2.2.2
@@ -53,7 +53,7 @@ pytest==3.6.0
 pytest-cov==2.5.1
 pytest-runner==4.2
 python-dateutil==2.7.3
-python-gnupg==0.4.3
+python-gnupg==0.4.4
 pytz==2018.4
 pyusb==1.0.2
 PyYAML==3.12
@@ -67,7 +67,7 @@ snowballstemmer==1.2.1
 Sphinx==1.7.5
 sphinxcontrib-httpdomain==1.6.1
 sphinx-rtd-theme==0.3.1
-SQLAlchemy==1.2.8
+SQLAlchemy==1.2.18
 sqlsoup==0.9.1
 stdeb==0.8.5
 Werkzeug==0.14.1
