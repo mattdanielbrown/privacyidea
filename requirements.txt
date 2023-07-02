@@ -42,7 +42,7 @@ py==1.5.3
 pyasn1==0.4.3
 pycparser==2.18
 pycrypto==2.6.1
-Pygments==2.2.0
+Pygments==2.15.0
 PyJWT==1.6.4
 PyMySQL==0.8.1
 pymysql-sa==1.0
