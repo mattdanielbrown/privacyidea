@@ -71,3 +71,4 @@ SQLAlchemy==1.2.8
 sqlsoup==0.9.1
 stdeb==0.8.5
 Werkzeug==0.14.1
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
